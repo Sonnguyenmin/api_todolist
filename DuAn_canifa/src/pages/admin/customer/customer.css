@@ -1,0 +1,15 @@
+.active {
+  background-color: #2563eb;
+  color: white;
+}
+
+.active:hover {
+  opacity: 0.8;
+  background-color: #2563eb;
+  color: white;
+}
+
+.dissable {
+  opacity: 0.4;
+  cursor: not-allowed;
+}

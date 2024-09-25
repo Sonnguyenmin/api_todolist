@@ -1,0 +1,208 @@
+{
+  "products": [
+    {
+      "name": "Hấu",
+      "price": 12345,
+      "quantity": 10,
+      "id": 1
+    }
+  ],
+
+  "customers": [
+    {
+      "id": 1,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "Trần Văn B",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Nguyễn Thị C",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": false
+    },
+    {
+      "id": 7,
+      "name": "Trần Văn B",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "Nguyễn Thị C",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 10,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 11,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": false
+    },
+    {
+      "id": 12,
+      "name": "Trần Văn B",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 13,
+      "name": "Nguyễn Thị C",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 14,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 15,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 16,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": false
+    },
+    {
+      "id": 17,
+      "name": "Trần Văn B",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 18,
+      "name": "Nguyễn Thị C",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": false
+    },
+    {
+      "id": 19,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": true
+    },
+    {
+      "id": 20,
+      "name": "Trần Thị A",
+      "gender": 0,
+      "dateOfBirth": "12/04/2007",
+      "email": "a@gmail.com",
+      "address": "Hà Nội",
+      "status": false
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "gender": "nam",
+      "dateOfBirth": "18/04/2001"
+    },
+    {
+      "name": "Nguyễn Văn B",
+      "gender": "nam",
+      "dateOfBirth": "18/04/2002",
+      "id": 2
+    }
+  ]
+}
